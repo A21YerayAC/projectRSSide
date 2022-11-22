@@ -12,5 +12,12 @@
             <pubDate>Tue, 22 Nov 2022 12:15:00 GMT</pubDate>
             <description>Tricks on Eclipse</description>
         </item>
+
+        <item>
+            <title>NetBeans</title>
+            <link>https://yeriix.github.io/projectRSSide/netbeans.html</link>
+            <pubDate>Tue, 22 Nov 2022 12:15:00 GMT</pubDate>
+            <description>Tricks on Netbeans</description>
+        </item>
     </channel>
 </rss>
